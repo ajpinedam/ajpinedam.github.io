@@ -1,0 +1,65 @@
+
+$accent-color:      #29506d;
+
+@import "minima";
+
+// h1, h2, h3, h4, h5, h6 { font-family: "HelveticaNeue-CondensedBold", "Arial Black", Gadget, sans-serif }
+
+.site-header { border-top: none; }
+.site-header .site-title { color: $accent-color !important; }
+
+.site-nav .page-link { background-color: $accent-color; padding: 0.5em; color: white; border-radius: 5px; }
+.site-nav .page-link:hover { text-decoration: none; background-color: $grey-color-dark; }
+.site-nav .page-link:not(:last-child) { margin-right: 0.5em; }
+
+.post-link:visited { color: $accent-color; }
+.post-list h3 { margin-bottom: 0.1em; }
+
+.post-list .post-thumbnail {
+    max-width: 196px;
+    max-height: 196px;
+    float: left;
+    margin-right: 0.75em;
+    margin-bottom: 2em;
+    margin-top: 0.2em;
+}
+.post-list a>img.post-thumbnail {
+    border: solid 1px #CCC;
+    border-radius: 5px;
+}
+
+.post-list a:hover>img.post-thumbnail {
+    border-color: $accent-color;
+}
+
+.post-list li {
+    clear: both;
+    margin-bottom: 2em;
+}
+
+.post-content img { border-radius: 5px; }
+.post-content h2 { margin-top: 1em; margin-bottom: 0.25em; }
+
+.home .content { background-color: rgb(242, 242, 242); border-radius: 5px; padding: 1em 2em 0.5em 2em; margin-bottom: 2em; text-align: center; font-family: "Georgia"; font-size: 125%; }
+.home .content img { width: 128px; clip-path: circle(64px at center); -webkit-clip-path: circle(64px at center); }
+.home .content a { font-weight: bold; font-family: $base-font-family; }
+.home .content a:visited { color: $accent-color !important; }
+
+code {
+    background-color: rgb(200, 200, 200);
+    border: none;
+}
+
+h1 code, h2 code, h3 code, h4 code {
+    font-size: 100%;
+}
+.highlighter-rouge .highlight, .highlighter-rouge pre.highlight code {
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(200, 200, 200);
+}
+
+.content .video, .content .slides {
+    margin-bottom: 2em;
+    text-align: center;
+}
