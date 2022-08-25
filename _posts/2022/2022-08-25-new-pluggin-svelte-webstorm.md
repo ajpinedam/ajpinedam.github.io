@@ -3,9 +3,9 @@ layout: post
 title: "New pluggin svelte webstorm"
 date: 2022-08-25 00:00:00 -0500
 comments: false
-published: false
+visible: 1
 category: Archive
-tags: ["Svelte", "Web"]
+tags: ["Svelte", "Web", "Pluggins"]
 author: Andres
 ---
 
