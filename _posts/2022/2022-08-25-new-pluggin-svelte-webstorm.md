@@ -1,3 +1,13 @@
+---
+layout: post
+title: "New pluggin svelte webstorm"
+date: 2022-08-25 00:00:00 -0500
+comments: false
+category: Archive
+tags: ["Svelte", "Web"]
+author: Andres
+---
+
 # New Pluggin for Svelte (0.22.1)
 
 [Svelte](https://svelte.dev/) provides a radical new approach to building user interfaces. If you use the Svelte language in your projects, you will be happy to read that we are adding support through this plugin to the IDE of your choice.
