@@ -13,7 +13,6 @@ author: Andres
 [Svelte](https://svelte.dev/) provides a radical new approach to building user interfaces. If you use the Svelte language in your projects, you will be happy to read that we are adding support through this plugin to the IDE of your choice.
 
 <!-- more -->
-
 The Svelte Plugin is compatible with IntelliJ IDEA Ultimate, AppCode, CLion, GoLand, PhpStorm, PyCharm Professional, Rider, RubyMine and WebStorm.
 
 > Latest version (**0.22.1**) adds compatibility with the 2022.2 platforms.
