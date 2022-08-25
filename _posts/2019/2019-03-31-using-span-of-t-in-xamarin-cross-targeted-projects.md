@@ -4,6 +4,7 @@ title: "Using the Span<T> in Xamarin Cross-Targeted projects"
 date: 2019-03-31 00:00:00 -0500
 comments: true
 category: Archive
+visible: 1
 comments: true
 tags: [".NET", "xamarin"]
 author: Jerome
